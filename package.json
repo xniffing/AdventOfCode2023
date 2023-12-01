@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2023-xniffing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "run": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
